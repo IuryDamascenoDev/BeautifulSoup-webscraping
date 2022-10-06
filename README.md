@@ -1,3 +1,3 @@
-# BeautifulSoup webscraping for getting notebook data from Mercado Livre
+# BeautifulSoup WebScrape para extrair dados de notebooks do Mercado Livre.
 
-Made to facilitate and shorten my search for notebooks and prices
+Feito para facilitar minha procura por notebooks, especificações e preços.
